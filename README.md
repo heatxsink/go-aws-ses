@@ -1,7 +1,7 @@
 go-aws-ses
 ==========
 
-Couldn't find this in go-amz so ... I do use this in production in a few places so this code does work. I hope to eventually get it into go-amz if they'll allow it. I know that amazon has an SMTP interface, this is the HTTPS based one. As always pull requests are welcome!
+Couldn't find this in go-amz ... my intentions are to get it into go-amz if they'll allow it. I know that amazon has an SMTP interface, this is the HTTPS one. Pull requests welcome!
 
 Example
 -------
